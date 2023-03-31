@@ -1,0 +1,10 @@
+.background__purple-light {
+  position: absolute;
+  width: 259px;
+  height: 259px;
+  left: 602px;
+  top: -154px;
+  background: #833ab4;
+  opacity: 0.5;
+  filter: blur(196px);
+}

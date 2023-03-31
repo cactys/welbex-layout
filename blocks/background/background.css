@@ -1,0 +1,11 @@
+.background {
+  height: 1vh;
+  width: 1vw;
+  position: relative;
+}
+
+@media screen and (max-width: 320px) {
+  .background {
+    display: none;
+  }
+}
