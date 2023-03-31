@@ -7,9 +7,9 @@
   position: relative;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .header {
-    height: 451px;
+    height: 445px;
     background-image: url(../../images/background-mobile.png);
     background-size: cover;
   }

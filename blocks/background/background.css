@@ -1,10 +1,11 @@
 .background {
   height: 1vh;
-  width: 1vw;
+  margin: 0 auto;
+  width: 1140px;
   position: relative;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .background {
     display: none;
   }
