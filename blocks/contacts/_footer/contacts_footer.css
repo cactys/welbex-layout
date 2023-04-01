@@ -1,0 +1,5 @@
+.contacts_footer {
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-end;
+}

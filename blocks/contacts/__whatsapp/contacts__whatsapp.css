@@ -1,0 +1,12 @@
+.contacts__whatsapp {
+  display: block;
+  width: 20px;
+  height: 20px;
+  background-image: url(../../../images/whatsapp.svg);
+  background-size: cover;
+  transition: opacity 0.2s linear;
+}
+
+.contacts__whatsapp:hover {
+  opacity: 0.7;
+}

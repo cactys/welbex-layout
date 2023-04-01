@@ -19,3 +19,34 @@
 @import url(../blocks/header/__nav-list/header__nav-list.css);
 @import url(../blocks/header/__nav-item/header__nav-item.css);
 @import url(../blocks/header/__nav-link/header__nav-link.css);
+
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/contacts/_header/contacts_header.css);
+@import url(../blocks/contacts/_footer/contacts_footer.css);
+@import url(../blocks/contacts/__phone/contacts__phone.css);
+@import url(../blocks/contacts/__social-list/contacts__social-list.css);
+@import url(../blocks/contacts/__social-list/_header/contacts__social-list_header.css);
+@import url(../blocks/contacts/__social-list/_footer/contacts__social-list_footer.css);
+@import url(../blocks/contacts/__telegram/contacts__telegram.css);
+@import url(../blocks/contacts/__viber/contacts__viber.css);
+@import url(../blocks/contacts/__whatsapp/contacts__whatsapp.css);
+@import url(../blocks/contacts/__social-item/contacts__social-item.css);
+@import url(../blocks/contacts/__address/contacts__address.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column-container/footer__column-container.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_contacts.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_info.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_navigation.css);
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer/__column-navigate/footer__column-navigate.css);
+@import url(../blocks/footer/__column-list/footer__column-list.css);
+@import url(../blocks/footer/__column-item/footer__column-item.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__privacy-policy/footer__privacy-policy.css);

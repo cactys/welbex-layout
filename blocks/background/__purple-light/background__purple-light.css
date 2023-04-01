@@ -10,7 +10,7 @@
   filter: blur(196px);
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 860px) {
   .background__purple-light {
     left: 258px;
     top: 107px;

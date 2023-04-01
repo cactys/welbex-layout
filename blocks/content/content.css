@@ -1,0 +1,9 @@
+.content {
+  margin: 0 auto;
+  padding: 90px 0 0;
+  display: flex;
+  justify-content: space-between;
+  flex: 1 0 auto;
+  max-width: 1440px;
+  min-width: 320px;
+}

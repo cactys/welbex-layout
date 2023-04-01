@@ -1,3 +1,20 @@
 .header__navigation {
-  margin: 0 137px 0 52px;
+  margin: 15px 137px 0 52px;
+  display: flex;
+}
+
+@media screen and (max-width: 1034px) {
+  .header__navigation {
+    margin: 15px auto 0;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .header__navigation {
+    position: absolute;
+    width: 320px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+  }
 }

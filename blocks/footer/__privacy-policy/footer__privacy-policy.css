@@ -1,0 +1,13 @@
+.footer__privacy-policy {
+  margin: 0;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: inherit;
+  text-decoration-line: underline;
+  transition: opacity 0.2s linear;
+}
+
+.footer__privacy-policy:hover {
+  opacity: 0.7;
+}

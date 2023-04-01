@@ -1,0 +1,10 @@
+.contacts__social-list_header {
+  margin: 0 0 0 47px;
+  gap: 30px;
+}
+
+@media screen and (max-width: 1170px) {
+  .contacts__social-list_header {
+    margin: 0;
+  }
+}
