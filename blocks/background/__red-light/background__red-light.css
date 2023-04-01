@@ -1,4 +1,5 @@
 .background__red-light {
+  z-index: -2;
   position: absolute;
   width: 311px;
   height: 311px;
@@ -8,4 +9,13 @@
   background: #961a1a;
   opacity: 0.5;
   filter: blur(196px);
+}
+
+@media screen and (max-width: 550px) {
+  .background__red-light {
+    width: 211px;
+    height: 210px;
+    left: -55px;
+    top: 241px;
+  }
 }

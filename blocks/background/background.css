@@ -1,12 +1,9 @@
 .background {
-  height: 1vh;
+  z-index: -2;
   margin: 0 auto;
-  width: 1140px;
-  position: relative;
-}
-
-@media screen and (max-width: 425px) {
-  .background {
-    display: none;
-  }
+  min-width: 340px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
 }

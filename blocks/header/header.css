@@ -5,12 +5,7 @@
   min-width: 320px;
   margin: 46px auto 0;
   position: relative;
-}
-
-@media screen and (max-width: 425px) {
-  .header {
-    height: 445px;
-    background-image: url(../../images/background-mobile.png);
-    background-size: cover;
-  }
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }

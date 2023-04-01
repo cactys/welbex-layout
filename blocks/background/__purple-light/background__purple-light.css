@@ -1,4 +1,5 @@
 .background__purple-light {
+  z-index: -2;
   position: absolute;
   width: 259px;
   height: 259px;
@@ -7,4 +8,11 @@
   background: #833ab4;
   opacity: 0.5;
   filter: blur(196px);
+}
+
+@media screen and (max-width: 550px) {
+  .background__purple-light {
+    left: 258px;
+    top: 107px;
+  }
 }

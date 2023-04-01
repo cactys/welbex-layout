@@ -4,6 +4,7 @@
 @import url(../blocks/body/body.css);
 
 @import url(../blocks/background/background.css);
+@import url(../blocks/background/__glass/background__glass.css);
 @import url(../blocks/background/__purple-ball/background__purple-ball.css);
 @import url(../blocks/background/__purple-light/background__purple-light.css);
 @import url(../blocks/background/__red-ball-small/background__red-ball-small.css);
@@ -11,4 +12,10 @@
 @import url(../blocks/background/__red-light/background__red-light.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__background/header__background.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo-image/header__logo-image.css);
+@import url(../blocks/header/__logo-subtitle/header__logo-subtitle.css);
+@import url(../blocks/header/__navigation/header__navigation.css);
+@import url(../blocks/header/__nav-list/header__nav-list.css);
+@import url(../blocks/header/__nav-item/header__nav-item.css);
+@import url(../blocks/header/__nav-link/header__nav-link.css);

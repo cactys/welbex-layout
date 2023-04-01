@@ -1,0 +1,6 @@
+.header__logo-image {
+  width: 140px;
+  height: 24px;
+  flex-shrink: 0;
+  background-image: url(../../../images/logo_welbex.svg);
+}

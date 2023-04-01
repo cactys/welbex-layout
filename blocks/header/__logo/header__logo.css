@@ -1,0 +1,13 @@
+.header__logo {
+  width: 140px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-decoration: none;
+  color: #E4E5EA;
+  transition: opacity 0.2s linear;
+}
+
+.header__logo:hover {
+  opacity: 0.7;
+}
