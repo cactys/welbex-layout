@@ -5,3 +5,10 @@
   line-height: 19px;
   text-align: right;
 }
+
+@media screen and (max-width: 550px) {
+  .contacts__address {
+    font-size: 14px;
+    line-height: 17px;
+  }
+}

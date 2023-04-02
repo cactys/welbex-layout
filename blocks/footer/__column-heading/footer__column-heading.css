@@ -8,3 +8,10 @@
   text-transform: uppercase;
   color: #656566;
 }
+
+@media screen and (max-width: 550px) {
+  .footer__column-heading {
+    font-size: 12px;
+    line-height: 15px;
+  }
+}

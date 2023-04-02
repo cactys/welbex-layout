@@ -1,0 +1,15 @@
+.description__heading {
+  display: flex;
+  flex-direction: column;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  margin: 0;
+}
+
+@media screen and (max-width: 710px) {
+  .description__heading {
+    font-size: 36px;
+    line-height: 44px;
+  }
+}

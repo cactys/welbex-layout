@@ -4,6 +4,20 @@
   display: flex;
   justify-content: space-between;
   flex: 1 0 auto;
-  max-width: 1440px;
+  width: 100%;
+  max-width: 1140px;
   min-width: 320px;
+}
+
+@media screen and (max-width: 615px) {
+  .content {
+    padding: 40px 0 0;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .content {
+    padding: 40px 0 55px;
+  }
 }

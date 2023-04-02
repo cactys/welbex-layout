@@ -5,3 +5,9 @@
   padding: 0;
   list-style: none;
 }
+
+@media screen and (max-width: 550px) {
+  .header__nav-list {
+    gap: 16px;
+  }
+}

@@ -11,6 +11,8 @@
 @import url(../blocks/background/__red-ball/background__red-ball.css);
 @import url(../blocks/background/__red-light/background__red-light.css);
 
+@import url(../blocks/page/page.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__logo-image/header__logo-image.css);
@@ -18,6 +20,7 @@
 @import url(../blocks/header/__navigation/header__navigation.css);
 @import url(../blocks/header/__nav-list/header__nav-list.css);
 @import url(../blocks/header/__nav-item/header__nav-item.css);
+@import url(../blocks/header/__nav-item/_disable/header__nav-item_disable.css);
 @import url(../blocks/header/__nav-link/header__nav-link.css);
 
 @import url(../blocks/contacts/contacts.css);
@@ -34,6 +37,25 @@
 @import url(../blocks/contacts/__address/contacts__address.css);
 
 @import url(../blocks/content/content.css);
+
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__heading/description__heading.css);
+@import url(../blocks/description/__gradient/description__gradient.css);
+@import url(../blocks/description/__uppercase/description__uppercase.css);
+@import url(../blocks/description/__subtitle/description__subtitle.css);
+
+@import url(../blocks/gift/gift.css);
+@import url(../blocks/gift/__title/gift__title.css);
+@import url(../blocks/gift/__text-highlighting/gift__text-highlighting.css);
+@import url(../blocks/gift/__link/gift__link.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__title-container/card__title-container.css);
+@import url(../blocks/card/__hyphen/card__hyphen.css);
+@import url(../blocks/card/__title-mobile/card__title-mobile.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__subtitle/card__subtitle.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);

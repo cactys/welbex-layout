@@ -1,0 +1,13 @@
+.description {
+  display: flex;
+  flex-direction: column;
+  width: 362px;
+  gap: 30px;
+}
+
+@media screen and (max-width: 615px) {
+  .description {
+    width: inherit;
+    gap: 15px;
+  }
+}

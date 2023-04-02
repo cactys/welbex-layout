@@ -11,10 +11,19 @@
 
 @media screen and (max-width: 950px) {
   .header__navigation {
+    margin: 0;
+    align-items: center;
     position: absolute;
-    width: 320px;
     height: 55px;
     left: 0px;
     top: 0px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .header__navigation {
+    position: inherit;
+    margin: 0;
+    justify-content: center;
   }
 }

@@ -1,0 +1,20 @@
+.card__hyphen {
+  display: none;
+  box-sizing: border-box;
+  width: 10px;
+  border-top: 1px solid transparent;
+  border-image: linear-gradient(to right, #fcb045 36.99%, #fd1d1d 100%);
+  -moz-border-image: -moz-linear-gradient(left, #fcb045 36.99%, #fd1d1d 100%);
+  -webkit-border-image: -webkit-linear-gradient(
+    left,
+    #fcb045 36.99%,
+    #fd1d1d 100%
+  );
+  border-image-slice: 1;
+}
+
+@media screen and (max-width: 675px) {
+  .card__hyphen {
+    display: block;
+  }
+}

@@ -1,0 +1,14 @@
+.gift__title {
+  margin: 0;
+  text-align: end;
+  width: 291px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media screen and (max-width: 550px) {
+  .gift__title {
+    text-align: start;
+  }
+}

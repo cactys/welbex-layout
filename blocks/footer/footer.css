@@ -8,3 +8,9 @@
   max-width: 1140px;
   min-width: 320px;
 }
+
+@media screen and (max-width: 550px) {
+  .footer {
+    padding: 45px 0 0;
+  }
+}

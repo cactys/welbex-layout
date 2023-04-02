@@ -3,3 +3,10 @@
   gap: 20px;
   align-items: flex-end;
 }
+
+@media screen and (max-width: 550px) {
+  .contacts_footer {
+    align-items: flex-start;
+    gap: 10px;
+  }
+}
